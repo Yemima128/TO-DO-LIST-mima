@@ -1,8 +1,4 @@
-// Simple beginner-friendly JS for the todo app
-// Features: add, validate, display, filter (all/active/completed), delete, toggle complete
-// Data stored in localStorage so page refresh tetap menyimpan
 
-// --- Helper: get elements ---
 const form = document.getElementById('todo-form');
 const taskInput = document.getElementById('task-input');
 const dateInput = document.getElementById('date-input');
@@ -158,3 +154,4 @@ function loadFromStorage(){
     todos = [];
   }
 }
+
