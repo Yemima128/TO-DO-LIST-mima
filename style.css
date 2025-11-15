@@ -1,4 +1,4 @@
-/* Simple dark UI - mudah dibaca untuk pemula */
+
 :root{
   --bg:#0f1724;
   --card:#151a27;
@@ -151,3 +151,4 @@ tbody td{
   text-align:center;
   display:none;
 }
+
